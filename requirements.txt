@@ -1,0 +1,4 @@
+openai
+datasets
+huggingface_hub
+python-dotenv
