@@ -2,3 +2,5 @@ openai
 datasets
 huggingface_hub
 python-dotenv
+nltk
+nlpaug
